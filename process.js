@@ -13,7 +13,7 @@ async function main() {
     await tryOn.initialize();
 
     const humanImagePath = path.join(__dirname, 'images', 'Altman.png');
-    const garmentImagePath = path.join(__dirname, 'images', 'Cloth2.jpg');
+    const garmentImagePath = path.join(__dirname, 'images', 'Cloth.jpg');
 
     // ITDM-VTON parameters
     const result = await tryOn.generateTryOn({
