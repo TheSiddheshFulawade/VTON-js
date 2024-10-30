@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@gradio/client": "^1.7.1"
+  },
+  "name": "vton-js",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node process.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
